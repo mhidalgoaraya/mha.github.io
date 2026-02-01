@@ -37,7 +37,7 @@ I carried that same attitude into learning. If something makes me curious, I fol
 
 My path has not been a straight line, because curiosity does not walk in straight lines. I started in industrial design, moved into mechanical engineering, and earned a master's in biomechatronics at Delft University of Technology. Today I am a PhD candidate in the Signal Processing Systems group at Eindhoven University of Technology. The PhD is where I get to ask "why" as my actual job.
 
-{% include figure.liquid path="assets/img/paths.jpg" class="img-fluid rounded z-depth-1" caption="Tim Urban @waitbutwhy perfectly illustrates this idea" %}
+{% include figure.liquid path="assets/img/paths.jpg" class="img-fluid rounded z-depth-1" caption="Tim Urban @waitbutwhy" %}
 
 My research focuses on real-time Bayesian agents for personalized audio processing. I work on variational inference via message passing, building scalable signal processing systems that know what they do not know, including speech denoising for hearing aids.
 
